@@ -35,3 +35,13 @@ Input Validation for Difficulty
 
 Track Best Score (Least Attempts)
 
+How to Try It:
+Run the script.
+
+Choose difficulty (e.g., easy, medium, hard).
+
+Try to guess the number!
+
+After 3 wrong guesses, you’ll get a hint.
+
+When done, choose whether to play again.

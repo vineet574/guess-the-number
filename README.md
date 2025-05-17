@@ -24,3 +24,14 @@ Welcome to the **Guess the Number Game**! This is a simple text-based game writt
 2. Run the game using the command:
   
 3. Follow the on-screen instructions to guess the number.
+New Features Added:
+Difficulty Levels (Easy, Medium, Hard)
+
+Play Again Option
+
+Hints After 3 Incorrect Attempts
+
+Input Validation for Difficulty
+
+Track Best Score (Least Attempts)
+
